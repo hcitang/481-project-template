@@ -1,0 +1,2 @@
+# CPSC481-2017S Project Template
+CPSC 481 - 2017S
